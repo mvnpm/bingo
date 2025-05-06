@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.mvnpm</groupId>
-    <artifactId>process-runner</artifactId>
+    <artifactId>bingo</artifactId>
     <version>999-SNAPSHOT</version>
 
     <dependencyManagement>
